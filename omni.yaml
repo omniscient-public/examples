@@ -1,4 +1,4 @@
-indexVersion: 1
+catalogVersion: 1
 targets:
   omni_examples/car/car.json:
     type: config

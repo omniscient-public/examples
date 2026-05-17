@@ -86,7 +86,7 @@
           },
           "description": "A migration to convert Celsius to Kelvin.",
           "functionName": "scale",
-          "scope": "/daily_schedule/.*/.*"
+          "scope": "/daily_schedule/#.*/#.*"
         }
       ],
       "to": "0.0.3"
@@ -101,7 +101,7 @@
           },
           "description": "A migration to convert Kelvin to Celsius.",
           "functionName": "scale",
-          "scope": "/daily_schedule/.*/.*"
+          "scope": "/daily_schedule/#.*/#.*"
         }
       ],
       "to": "0.0.4"
